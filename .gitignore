@@ -1,0 +1,14 @@
+
+# Ignorer le dossier de l'environnement virtuel
+.venv/
+
+# Ignorer les fichiers de configuration de l'IDE
+.idea/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers Python compilés
+__pycache__
+
+
